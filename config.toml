@@ -1,0 +1,38 @@
+baseURL = "http://joaquinandkatrina.com/"
+languageCode = "en-us"
+title = "We're getting married!!"
+theme = "hugo-hero-theme"
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "The website for the wedding."
+    author = "Joaquín and Katrina 2020"
+
+[params.homepage_meta_tags]
+    meta_description = "Nos casamos!"
+    meta_og_title = "Joaquín y Katrina se casan!"
+    meta_og_type = "website"
+    meta_og_url = "https://joaquinandkatrina.com"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Nuestro sitio de boda."
+    meta_twitter_card = "summary"
+
+[[menu.main]]
+	name = "El lugar/The Venue"
+	url = "/the-venue/"
+    weight = 1
+
+[[menu.main]]
+    name = "Madrid!"
+    url = "/about-Madrid/"
+    weight = 2
+
+[[menu.main]]
+    name = "Nuestra historia/Our History"
+    url = "/our-history/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4

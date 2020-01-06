@@ -1,0 +1,18 @@
+<div class='header header-absolute'>
+  <div class="container">
+    <div class="logo">
+      <a href="{{ .Site.BaseURL }}">
+          <img alt="Figurit Homepage" src="{{ .Site.BaseURL }}images/logo-personalizado.png" />
+      </a>
+    </div>
+    <div class="logo-mobile">
+      <a href="{{ .Site.BaseURL }}">
+        <object data="{{ .Site.BaseURL }}images/logo-personalizado-mobile.svg" type="image/svg+xml">
+          <img alt="Figurit Homepage" src="{{ .Site.BaseURL }}images/logo-personalizado-mobile.svg" />
+        </object>
+      </a>
+    </div>
+    {{ partial "main-menu.html" . }}
+    {{ partial "hamburger.html" . }}
+  </div>
+</div>
