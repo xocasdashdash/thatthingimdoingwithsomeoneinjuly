@@ -7,6 +7,7 @@ theme = "hugo-hero-theme"
     # Provide some metadata for search and indexing services
     description = "The website for the wedding."
     author = "Joaquín and Katrina 2020"
+    googleMapsAPIKey = "AIzaSyBbs2fHWmCX1ZB220Zg-4Oej5f2e_vxTek"
 [params.sizes]
     width="1400x"
 
@@ -19,22 +20,25 @@ theme = "hugo-hero-theme"
     meta_og_description = "Nuestro sitio de boda."
     meta_twitter_card = "summary"
 
+#[[menu.main]]
+#	name = "El lugar/The Venue"
+#	url = "/the-venue/"
+#    weight = 1
 [[menu.main]]
-	name = "El lugar/The Venue"
-	url = "/the-venue/"
-    weight = 1
-
+name = "Home"
+url ="/"
+weight=1
 [[menu.main]]
     name = "Madrid!"
     url = "/about-madrid/"
     weight = 2
 
-[[menu.main]]
-    name = "Nuestra historia/Our History"
-    url = "/our-history/"
-    weight = 3
+#[[menu.main]]
+#    name = "Nuestra historia/Our History"
+#    url = "/our-history/"
+#    weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "RSVP/Confirma tu asistencia"
+    url = "/rsvp/"
     weight = 4
