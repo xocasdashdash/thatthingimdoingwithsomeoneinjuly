@@ -1,8 +1,9 @@
 ---
 title: "Our History"
 date: 2020-01-05T15:21:05+01:00
-draft: true
+draft: false
 ---
+
 
 Once upon a time, a native Argentinian living in Spain named Joaquín read an article in Wired about “OK Cupid” and decided he would make an account, just to see what might come of it. Around the same time, Katrina, an American living in Madrid “temporarily,” and a couple of her friends, decided to do the same. She and her friends wanted to meet some Spanish guys, to practice Spanish and maybe go on some fun dates. Her friends accomplished this goal beautifully, while Katrina began speaking to one guy in particular (guess who). Their first date took place in the Plaza de España and the Templo de Debod. Katrina hadn’t been to either place yet, and they are two of the most famous things to see in Madrid. Things got pretty serious between them quickly, and completely changed the course of both their lives. Katrina decided to spend “one more year” in Spain, and within a few months, they decided to move in together. One more year turned into several, as well as two more moves together, and the adoption of two cats (Clio y Hermes). And then, two years ago, Joaquín brought Katrina back to the site of their first date for their 4th anniversary, got down on one knee, and proposed. Katrina had a colorful reaction but finally said yes… which brings us to the present and the reason for all of this! 
 
