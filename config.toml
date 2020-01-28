@@ -33,10 +33,10 @@ weight=1
     url = "/about-madrid/"
     weight = 2
 
-#[[menu.main]]
-#    name = "Nuestra historia/Our History"
-#    url = "/our-history/"
-#    weight = 3
+[[menu.main]]
+    name = "Nuestra historia/Our History"
+    url = "/our-history/"
+    weight = 3
 
 [[menu.main]]
     name = "RSVP/Confirma tu asistencia"
