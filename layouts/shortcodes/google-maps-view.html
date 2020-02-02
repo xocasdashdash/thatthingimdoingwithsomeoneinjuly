@@ -1,0 +1,10 @@
+<div class="shortcode shortcode--google-maps">
+	<iframe 
+		src="https://www.google.com/maps/d/embed?mid={{ with .Get "src" }}{{.}}{{end}}"
+		height='{{ with .Get "height" }}{{.}}{{else}}600px{{end}}'
+		width='{{ with .Get "width" }}{{.}}{{else}}100%{{end}}'
+
+		></iframe>
+
+		
+</div>
