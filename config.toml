@@ -34,8 +34,8 @@ weight=1
     weight = 2
 
 [[menu.main]]
-    name = "Nuestra historia/Our History"
-    url = "/our-history/"
+    name = "Nuestra historia/Our story"
+    url = "/our-story/"
     weight = 3
 
 [[menu.main]]

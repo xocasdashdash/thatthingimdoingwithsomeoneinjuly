@@ -1,5 +1,5 @@
 ---
-title: "Our History"
+title: "Our Story/Nuestra historia"
 date: 2020-01-05T15:21:05+01:00
 draft: false
 ---
