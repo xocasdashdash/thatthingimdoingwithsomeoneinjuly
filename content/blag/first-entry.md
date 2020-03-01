@@ -2,6 +2,7 @@
 Title: "Welcome to our blog/Bienvenidos al blog"
 date: 2020-03-01T12:00:00+01:00
 draft: false
+slug: "first-time"
 Description: "Bienvenidos!"
 ---
 

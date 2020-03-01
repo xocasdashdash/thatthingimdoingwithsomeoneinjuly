@@ -6,7 +6,3 @@ homepage = "https://github.com/jugglerx/hugo-hero-theme"
 tags = ["responsive","minimal","clean","company","portfolio","bootstrap","zerostatic"]
 features = ["services","work","fullwidth","hero images"]
 min_version = 0.51
-
-[author]
-  name = "Robert Austin"
-  homepage = "https://www.zerostatic.io"

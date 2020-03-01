@@ -3,6 +3,7 @@ Title: "La lista de bodas! / Our wedding registry"
 date: 2020-03-01T12:00:00+01:00
 draft: false
 Description: ""
+slug: "la-lista"
 ---
 
 
@@ -13,13 +14,17 @@ Welcome to our Registry! This wedding is a pretty wild mix of customs, so we wan
 First, we want to say that we simply appreciate your presence. A lot of you are traveling from very far away to be here for our special day, and we don’t want anyone to feel like a gift is necessary (that’s not why we invited you!). 
 
 
-That being said, we’d like to explain the reasoning behind our choices here. In the US, it’s a custom to give the couple gifts that will help them begin their lives together (things that everybody needs/wants in a home). 
+That being said, we’d like to explain the reasoning behind our choices here. In the 
+US, it’s a custom to give the couple gifts that will help them begin their lives 
+together (things that everybody needs/wants in a home). 
+While we’ve been living together for quite some time, there are some things we would 
+love to upgrade or replace. 
 
-While we’ve been living together for quite some time, there are some things we would love to upgrade or replace. 
-
-However, in Spain, it's pretty normal for invitees to give a monetary gift, at least however much the wedding menus cost. 
-
-With that in mind, we have a “piggy bank” you can pop some coins into. Finally, just because we like the idea of it, we’ve come up with some “honeymoon experiences” you can help us pay for. 
+However, in Spain, it's pretty normal for invitees to give a monetary gift, at least 
+however much the wedding menus cost. 
+With that in mind, we have a “piggy bank” you can pop some coins into. Finally, just 
+because we like the idea of it, we’ve come up with some “honeymoon experiences” you 
+can help us pay for. 
 
 We’ll be traveling to Indonesia if all goes well, and we’ve put some research into the kinds of things we want to do while there. We hope this gives everyone a chance to give in the way they are most comfortable with, and we look forward to seeing you all in July! 
 
