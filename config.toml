@@ -2,7 +2,8 @@ baseURL = "https://joaquinandkatrina.com/"
 languageCode = "en-us"
 title = "We're getting married!!"
 theme = "hugo-hero-theme"
-
+[markup.goldmark.renderer]
+unsafe= true
 [params]
     # Provide some metadata for search and indexing services
     description = "The website for the wedding."
