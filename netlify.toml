@@ -10,7 +10,7 @@
   HUGO_VERSION = "0.62.0" # if older, use format: 0.53 (no trailing zero)
 
 [context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b https://fake-title.com"
+command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.62.0"
