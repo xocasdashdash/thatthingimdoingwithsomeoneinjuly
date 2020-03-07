@@ -1,0 +1,13 @@
+
+.list-blog-post {
+    .post-container{
+        margin-top: 5em;
+        margin-bottom: 5em;
+    }
+    .post-stub {
+        @extend .col-md-6;
+    }
+    //.row {
+    //    width: 1px;
+    //}
+}

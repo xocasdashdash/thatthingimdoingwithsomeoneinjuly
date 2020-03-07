@@ -1,0 +1,19 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-about-madrid-list{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div id="post-index" class="post-container">
+
+    <ol class="post-list">
+        {{ $pag := .Paginate .Pages }}
+        {{ range $pag.Pages }}
+            {{ partial "post-stub.html" . }}
+        {{ end }}
+    </ol>
+
+    <div class="post-navigation">
+        {{ partial "pagination.html" . }}
+    </div>
+</div>
+{{ end }}

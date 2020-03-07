@@ -1,0 +1,13 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}single-blog-post{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+
+<div class="container ">
+    <article class="post-container single-blog-post">
+        {{ partial "page-header.html" . }}
+        {{ partial "page-content.html" . }}
+    </article>
+</div>
+{{ end }}

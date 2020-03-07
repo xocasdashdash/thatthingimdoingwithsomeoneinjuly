@@ -23,8 +23,8 @@
 {{ $images := $.Site.GetPage "images" }}
 {{ $reusablePages := $headless.Resources.ByType "page" }}
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
-{{ range first 1 $reusablePages }}
 
+{{ range first 1 $reusablePages }}
 {{ $rawImage := $images.Resources.GetMatch (printf "*%s*" .Params.image) }}
 {{ if (eq .Params.crop "true") }}
 {{ $rawImage = $rawImage.Fill "900x450 bottom q100 " }}
@@ -43,10 +43,12 @@
   </div>
 </div>
 {{ end }}
-
-{{ range first 1 (after 1 $reusablePages) }}
+{{ range (after 1 $reusablePages) }}
 {{ $images := $.Site.GetPage "images" }}
 {{ $rawImage := $images.Resources.GetMatch (printf "*%s*" .Params.image) }}
+{{ if (eq .Params.crop "true") }}
+{{ $rawImage = $rawImage.Resize "3600x1800 topRight" }}
+{{ end }}
 <div id="home" class="strip bg- bg-cover bg-position-top bg-overlay" style='background-image: url("{{ ($rawImage.Resize  .Site.Params.sizes.width ).RelPermalink }}");'>
   <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
     <div class="row justify-content-center">

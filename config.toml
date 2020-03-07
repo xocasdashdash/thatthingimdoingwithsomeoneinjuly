@@ -2,7 +2,8 @@ baseURL = "https://joaquinandkatrina.com/"
 languageCode = "en-us"
 title = "We're getting married!!"
 theme = "hugo-hero-theme"
-
+[markup.goldmark.renderer]
+unsafe= true
 [params]
     # Provide some metadata for search and indexing services
     description = "The website for the wedding."
@@ -19,7 +20,8 @@ theme = "hugo-hero-theme"
     meta_og_image = "https://joaquinandkatrina.com/images/logo-personalizado.png"
     meta_og_description = "Nuestro sitio de boda."
     meta_twitter_card = "summary"
-
+[permalinks]
+  blag = "/:slug"
 #[[menu.main]]
 #	name = "El lugar/The Venue"
 #	url = "/the-venue/"
@@ -29,8 +31,8 @@ name = "Home"
 url ="/"
 weight=1
 [[menu.main]]
-    name = "Madrid!"
-    url = "/about-madrid/"
+    name = "Los gifts"
+    url = "/la-lista/"
     weight = 2
 
 [[menu.main]]
@@ -42,3 +44,8 @@ weight=1
     name = "RSVP/Confirma tu asistencia"
     url = "/rsvp/"
     weight = 4
+
+[[menu.main]]
+    name = "El blog"
+    url = "/blag/"
+    weight = 5
