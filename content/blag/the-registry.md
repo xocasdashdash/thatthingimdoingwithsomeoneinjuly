@@ -29,7 +29,7 @@ can help us pay for.
 We’ll be traveling to Indonesia if all goes well, and we’ve put some research into the kinds of things we want to do while there. We hope this gives everyone a chance to give in the way they are most comfortable with, and we look forward to seeing you all in July! 
 
 For this purpose we're using a spanish wedding website (like zola) to handle all this,
-go here LINK_TO_BODAS_NET_STORE to see our registry.
+go [here](https://www.bodas.net/web/katrina-y-joaquin/listadebodasregistry--l6) to see our registry.
 
 {{% heading title="Castellano" link="castellano" %}}
 
@@ -46,5 +46,5 @@ Mientras tanto, aquí en España, es normal que los invitados dan el regalo de �
 Finalmente, simplemente porque nos gusta la idea, hemos pensado en unas “experiencias de la luna de miel” que nos podéis ayudar a pagar. Tenemos pensado viajar a Indonesia si todo va bien, y hemos buscado algunas cosas que querremos hacer allí. Esperamos que todo esto de a todo el mundo la oportunidad dar en la manera más cómodo para ellos, y estamos encantados de veros en Julio! 
 
 Para poder gestionar todo esto, hemos creado un lista de bodas en bodas.net en la que 
-podéis ver nuestra lista de bodas. Aquí esta el ENLACE_A_LA_LISTA_DE_BODAS_NET, pero si
+podéis ver nuestra lista de bodas. La podéis ver [aquí](https://www.bodas.net/web/katrina-y-joaquin/listadebodasregistry--l6), pero si
 os es más cómodo poneros en contacto con nosotros y os pasamos un número de cuenta. 
