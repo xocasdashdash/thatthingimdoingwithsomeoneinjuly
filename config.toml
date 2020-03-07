@@ -31,8 +31,8 @@ name = "Home"
 url ="/"
 weight=1
 [[menu.main]]
-    name = "Madrid!"
-    url = "/about-madrid/"
+    name = "Los gifts"
+    url = "https://www.bodas.net/web/katrina-y-joaquin/listadebodasregistry--l6"
     weight = 2
 
 [[menu.main]]
