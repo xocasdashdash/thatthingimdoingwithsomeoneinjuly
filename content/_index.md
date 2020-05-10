@@ -18,11 +18,10 @@ title: 'Home'
 date: 2018-02-12T15:37:57+07:00
 heroHeading: |
     Katrina & Joaquín
-    <span style = "display: block;">July 4th</span>
+    <span style = "display: block;">July 31st, 2021</span>
 heroSubHeading: | 
-    Nos casamos! <br>
-    <span style = "display: block;">We're getting married!</span>
-
+    <span><a href="/postponment#english">Our new wedding date<br></span>
+    <span><a href="/postponment#castellano">Nuestra nueva fecha de boda<br></span>
     
 heroBackground: 'images/background-index.jpg'
 backgroundColor: "#dc354542"
